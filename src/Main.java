@@ -14,6 +14,20 @@ public class Main {
         book.setYearIssue(1890);
         System.out.println("Год Публикации= "+book.getYearIssue());
 
+        Author writer = new Author("Фёдор","Достоевкский");
+        Author poet = new Author("Михаил", "Булгаков");
+
+        Book punishment = new Book("Преступление и наказание",writer, 1866);
+        System.out.println("Название книги = "+punishment.getTitle()+ " Автор = "+ writer.getName()+ " "+writer.getSurname() );
+        punishment.setYearIssue(1890);
+        System.out.println("Год Публикации= "+punishment.getYearIssue());
+
+
+        Book master = new Book("Мастер и Маргарита",poet, 1900);
+        System.out.println("Название книги = "+master.getTitle()+ " Автор = "+ poet.getName()+ " "+poet.getSurname());
+        master.setYearIssue(1958);
+        System.out.println("Год Публикации= "+master.getYearIssue());
+
 
 
 

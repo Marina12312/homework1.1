@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="Задча1">
+    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="author исправила">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <updated>1673452419755</updated>
       <workItem from="1673452420992" duration="4718000" />
       <workItem from="1673470654674" duration="1420000" />
-      <workItem from="1673512649811" duration="1168000" />
+      <workItem from="1673512649811" duration="2576000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1673452442928</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673457745095</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="author исправила">
+      <created>1673514325162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673514325162</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый коммит" />
     <MESSAGE value="Задча1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задча1" />
+    <MESSAGE value="author исправила" />
+    <option name="LAST_COMMIT_MESSAGE" value="author исправила" />
   </component>
 </project>
