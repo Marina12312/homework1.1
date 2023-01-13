@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="добавила пункт 6 и7">
+    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="Первый комминт">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pro/sky/java/course1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.pro.sky.java.course1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="homework1.1" />
@@ -47,8 +51,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pro.sky.java.course1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro.sky.java.course1.Main" />
+      <module name="homework1.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pro.sky.java.course1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pro.sky.java.course1.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -65,6 +83,7 @@
       <workItem from="1673470654674" duration="1420000" />
       <workItem from="1673512649811" duration="3414000" />
       <workItem from="1673527172850" duration="2396000" />
+      <workItem from="1673602694593" duration="5086000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1673452442928</created>
@@ -94,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673516096705</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Первый комминт">
+      <created>1673602992654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673602992654</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +142,7 @@
     <MESSAGE value="Задча1" />
     <MESSAGE value="author исправила" />
     <MESSAGE value="добавила пункт 6 и7" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила пункт 6 и7" />
+    <MESSAGE value="Первый комминт" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый комминт" />
   </component>
 </project>

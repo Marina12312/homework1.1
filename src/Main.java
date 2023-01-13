@@ -1,3 +1,6 @@
+import pro.sky.java.course1.Author;
+import pro.sky.java.course1.Book;
+
 public class Main {
 
 
