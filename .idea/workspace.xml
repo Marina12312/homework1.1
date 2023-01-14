@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="Первый комминт">
+    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="Задачи">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pro/sky/java/course1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pro/sky/java/course1/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pro/sky/java/course1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro/sky/java/course1/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,9 @@
       <workItem from="1673470654674" duration="1420000" />
       <workItem from="1673512649811" duration="3414000" />
       <workItem from="1673527172850" duration="2396000" />
-      <workItem from="1673602694593" duration="5086000" />
+      <workItem from="1673602694593" duration="9302000" />
+      <workItem from="1673629678161" duration="20000" />
+      <workItem from="1673686845135" duration="729000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1673452442928</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673602992654</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Задачи">
+      <created>1673615881146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673615881146</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +150,7 @@
     <MESSAGE value="author исправила" />
     <MESSAGE value="добавила пункт 6 и7" />
     <MESSAGE value="Первый комминт" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первый комминт" />
+    <MESSAGE value="Задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи" />
   </component>
 </project>

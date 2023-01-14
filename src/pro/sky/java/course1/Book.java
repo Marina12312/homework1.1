@@ -2,6 +2,8 @@ package pro.sky.java.course1;
 
 import pro.sky.java.course1.Author;
 
+import java.util.Objects;
+
 public class Book {
    private String title;
     private Author author;
@@ -27,18 +29,24 @@ public class Book {
     public void setYearIssue (int yearIssue){
         this.yearIssue= yearIssue;
     }
-
     public boolean equals(Object other) {
-        if (this.getClass() != other.getClass()) {
-            return false;
+        if (this == other) {
+            return true;
         }
-        Book c2 = (Book) other;
-        return title.equals(c2.title);
-    }
+        if (other == null || other.getClass() != getClass()) {
+            return false;}
+            Book book = (Book) other;
+
+            return book.title == this.title &&
+                   book.yearIssue== this.yearIssue;
+        }
+
+
+
 
     @Override
     public int hashCode() {
-        return java.util.Objects.hash(title);}
+        return Objects.hash(title,yearIssue);}
 
     public String toString(){
         return "Название =  "+ this.title + author.toString() + " год = "+ this.yearIssue;
