@@ -32,9 +32,10 @@ public abstract class Main {
 
     private static void total() {
         int total = 0;
-        for (int i = 0; i < empCorp.length; i++) {
-            total = total+ empCorp[i].getSalary();
-            System.out.println("Затраты=" + total);}
+        for (Employee employee: empCorp) {
+            total = total+ employee.getSalary();
+        } System.out.println("Затраты"+ total);
+
     }
 
     private static void minSalary() {
@@ -75,24 +76,6 @@ public abstract class Main {
 }
 
 
-
-
-/*
-}
-
-        private static void minSalary () {
-            int minSalary = empCorp[0].getSalary();
-            String name = null;
-            for (int i = 0; i < empCorp.length; i++) {
-                if (minSalary >= empCorp[i].getSalary()) {
-                    name = empCorp[i].getName() + empCorp[i].getSurname();
-                }
-            }
-            System.out.println("Ф.И.=" + name + "Мин. зп. =" + minSalary);
-        }
-    }
-}
-*/
 
 
 

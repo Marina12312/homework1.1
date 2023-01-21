@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="Исправиа eguals и hashCode">
-      <change afterPath="$PROJECT_DIR$/src/termpaper/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/termpaper/Main.java" afterDir="false" />
+    <list default="true" id="f15d420d-0ae0-4633-9a27-f29e1eed479c" name="Changes" comment="Курсовая">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/termpaper/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/termpaper/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/termpaper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/termpaper/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1673686845135" duration="3768000" />
       <workItem from="1674036043866" duration="6886000" />
       <workItem from="1674125337368" duration="4264000" />
-      <workItem from="1674293588143" duration="9400000" />
+      <workItem from="1674293588143" duration="10970000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1673452442928</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673687928014</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Курсовая">
+      <created>1674308260440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674308260440</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +183,7 @@
     <MESSAGE value="Первый комминт" />
     <MESSAGE value="Задачи" />
     <MESSAGE value="Исправиа eguals и hashCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправиа eguals и hashCode" />
+    <MESSAGE value="Курсовая" />
+    <option name="LAST_COMMIT_MESSAGE" value="Курсовая" />
   </component>
 </project>

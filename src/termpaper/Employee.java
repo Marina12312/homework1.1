@@ -59,18 +59,5 @@ public class Employee {
         return ("id №"+getId()+ "Ф.И.О." +getName() + " "+ getSurname()+ " "+ getPatronymic()+ " Зарплата " + getSalary()+ " Отдел" + getDepartment() );
     }
 
-    public int salaryAmount() {
-        int sum = 0;
-        for (int i = 0; i < getSalary(); i++) {
-            sum += getSalary();
-        }
-        return sum;
-    }
-
-    public static void getArray(int[]empCorp){
-        for(int i = 0; i < empCorp.length; i++)
-            return;
-        }
-
     }
 
